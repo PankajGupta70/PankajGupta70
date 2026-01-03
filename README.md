@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Angular Frontend Developer with 4.7 years of experience delivering large-scale, secure, and<br>high-performance web applications for government and enterprise clients. Expert in Angular (v2–18), TypeScript,<br>SPA architecture, performance optimization, and accessibility standards. Proven experience in owning frontend<br>modules, mentoring peers, collaborating in Agile teams, and supporting platforms used globally across 140+<br>countries.
+Senior Angular Frontend Developer with 4.7 years of experience delivering large-scale, secure and high-performance web applications for government and enterprise clients. Expert in Angular (v2–18), TypeScript, SPA architecture, performance optimization, and accessibility standards. Proven experience in owning frontend modules, mentoring peers, collaborating in Agile teams and supporting platforms used globally across 140+ countries.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pankaj-gupta-software-developer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pankajgupta403104@gmail.com) 
 
